@@ -1,0 +1,616 @@
+Drop 615 ; 0 
+Sense Here 1 1 Friend ; 1 
+Move 1 2 ; 2 
+Move 2 3 ; 3 
+Turn Left 3 ; 4 
+Turn Left 4 ; 5 
+Move 5 6 ; 6 
+Move 6 7 ; 7 
+Move 7 8 ; 8 
+Move 8 9 ; 9 
+Move 9 10 ; 10 
+Move 10 11 ; 11 
+Move 11 12 ; 12 
+Move 12 13 ; 13 
+Move 13 14 ; 14 
+Move 14 15 ; 15 
+Move 15 16 ; 16 
+Move 16 17 ; 17 
+Move 17 18 ; 18 
+Move 18 19 ; 19 
+Move 19 20 ; 20 
+Move 20 21 ; 21 
+Turn Left 21 ; 22 
+Mark 1 22 ; 23 
+Turn Left 1 ; 24 
+Turn Left 24 ; 25 
+Move 25 26 ; 26 
+Move 26 27 ; 27 
+Move 27 28 ; 28 
+Move 28 29 ; 29 
+Move 29 30 ; 30 
+Move 30 31 ; 31 
+Move 31 32 ; 32 
+Move 32 33 ; 33 
+Move 33 34 ; 34 
+Move 34 35 ; 35 
+Move 35 36 ; 36 
+Move 36 37 ; 37 
+Move 37 38 ; 38 
+Move 38 39 ; 39 
+Move 39 40 ; 40 
+Move 40 41 ; 41 
+Turn Left 41 ; 42 
+Mark 2 42 ; 43 
+Sense Here 43 43 Friend ; 44 
+Turn Right 2 ; 45 
+Move 45 46 ; 46 
+Move 46 47 ; 47 
+Move 47 48 ; 48 
+Move 48 49 ; 49 
+Move 49 50 ; 50 
+Move 50 51 ; 51 
+Move 51 52 ; 52 
+Move 52 53 ; 53 
+Move 53 54 ; 54 
+Move 54 55 ; 55 
+Move 55 56 ; 56 
+Move 56 57 ; 57 
+Move 57 58 ; 58 
+Move 58 59 ; 59 
+Turn Left 59 ; 60 
+Mark 2 60 ; 61 
+Move 59 62 ; 62 
+Move 62 63 ; 63 
+Turn Left 63 ; 64 
+Mark 2 64 ; 65 
+Sense Here 65 65 Friend ; 66 
+Turn Right 3 ; 67 
+Move 67 68 ; 68 
+Move 68 69 ; 69 
+Move 69 70 ; 70 
+Move 70 71 ; 71 
+Move 71 72 ; 72 
+Move 72 73 ; 73 
+Move 73 74 ; 74 
+Move 74 75 ; 75 
+Move 75 76 ; 76 
+Move 76 77 ; 77 
+Move 77 78 ; 78 
+Move 78 79 ; 79 
+Move 79 80 ; 80 
+Turn Left 80 ; 81 
+Mark 2 81 ; 82 
+Move 63 83 ; 83 
+Turn Left 83 ; 84 
+Mark 2 84 ; 85 
+Sense Here 85 85 Friend ; 86 
+Move 3 87 ; 87 
+Move 87 88 ; 88 
+Move 88 89 ; 89 
+Move 89 90 ; 90 
+Move 90 91 ; 91 
+Turn Left 91 ; 92 
+Turn Left 92 ; 93 
+Move 93 94 ; 94 
+Move 94 95 ; 95 
+Move 95 96 ; 96 
+Move 96 97 ; 97 
+Move 97 98 ; 98 
+Move 98 99 ; 99 
+Move 99 100 ; 100 
+Move 100 101 ; 101 
+Move 101 102 ; 102 
+Move 102 103 ; 103 
+Move 103 104 ; 104 
+Move 104 105 ; 105 
+Move 105 106 ; 106 
+Turn Left 106 ; 107 
+Mark 2 107 ; 108 
+Turn Left 88 ; 109 
+Turn Left 109 ; 110 
+Move 110 111 ; 111 
+Move 111 112 ; 112 
+Move 112 113 ; 113 
+Move 113 114 ; 114 
+Move 114 115 ; 115 
+Move 115 116 ; 116 
+Move 116 117 ; 117 
+Move 117 118 ; 118 
+Move 118 119 ; 119 
+Move 119 120 ; 120 
+Move 120 121 ; 121 
+Move 121 122 ; 122 
+Move 122 123 ; 123 
+Move 123 124 ; 124 
+Move 124 125 ; 125 
+Move 125 126 ; 126 
+Turn Left 126 ; 127 
+Mark 2 127 ; 128 
+Sense Here 128 128 Friend ; 129 
+Move 80 130 ; 130 
+Turn Left 130 ; 131 
+Mark 2 131 ; 132 
+Move 91 133 ; 133 
+Turn Left 133 ; 134 
+Turn Left 134 ; 135 
+Move 135 136 ; 136 
+Move 136 137 ; 137 
+Move 137 138 ; 138 
+Move 138 139 ; 139 
+Move 139 140 ; 140 
+Move 140 141 ; 141 
+Move 141 142 ; 142 
+Move 142 143 ; 143 
+Move 143 144 ; 144 
+Move 144 145 ; 145 
+Move 145 146 ; 146 
+Move 146 147 ; 147 
+Move 147 148 ; 148 
+Move 148 149 ; 149 
+Move 149 150 ; 150 
+Turn Left 150 ; 151 
+Mark 2 151 ; 152 
+Sense Here 152 152 Friend ; 153 
+Sense LeftAhead 61 1 Marker 2 ; 154 
+Sense RightAhead 153 154 Marker 2 ; 155 
+Sense Here 155 155 Friend ; 156 
+Sense LeftAhead 132 156 Marker 2 ; 157 
+Sense RightAhead 129 157 Marker 2 ; 158 
+Sense Here 158 158 Friend ; 159 
+Sense LeftAhead 108 159 Marker 2 ; 160 
+Sense RightAhead 86 160 Marker 2 ; 161 
+Sense Here 161 161 Friend ; 162 
+Sense LeftAhead 82 162 Marker 2 ; 163 
+Sense RightAhead 66 163 Marker 2 ; 164 
+Sense Here 164 164 Friend ; 165 
+Sense LeftAhead 61 165 Marker 1 ; 166 
+Sense RightAhead 44 166 Marker 1 ; 167 
+Sense Here 167 167 Friend ; 168 
+Sense RightAhead 168 23 Home ; 169 
+Sense Here 168 168 Friend ; 170 
+Sense LeftAhead 170 169 Home ; 171 
+Mark 0 171 ; 172 
+Turn Left 89 ; 173 
+Turn Left 173 ; 174 
+Move 174 175 ; 175 
+Move 175 176 ; 176 
+Move 176 177 ; 177 
+Move 177 178 ; 178 
+Move 178 179 ; 179 
+Move 179 180 ; 180 
+Move 180 181 ; 181 
+Move 181 182 ; 182 
+Move 182 183 ; 183 
+Move 183 184 ; 184 
+Move 184 185 ; 185 
+Move 185 186 ; 186 
+Move 186 187 ; 187 
+Move 187 188 ; 188 
+Move 188 189 ; 189 
+Move 189 190 ; 190 
+Turn Left 190 ; 191 
+Mark 1 191 ; 192 
+Turn Left 2 ; 193 
+Turn Left 193 ; 194 
+Move 194 195 ; 195 
+Move 195 196 ; 196 
+Move 196 197 ; 197 
+Move 197 198 ; 198 
+Move 198 199 ; 199 
+Move 199 200 ; 200 
+Move 200 201 ; 201 
+Move 201 202 ; 202 
+Move 202 203 ; 203 
+Move 203 204 ; 204 
+Move 204 205 ; 205 
+Move 205 206 ; 206 
+Move 206 207 ; 207 
+Move 207 208 ; 208 
+Move 208 209 ; 209 
+Move 209 210 ; 210 
+Turn Left 210 ; 211 
+Mark 2 211 ; 212 
+Sense Here 212 212 Friend ; 213 
+Turn Right 87 ; 214 
+Move 214 215 ; 215 
+Move 215 216 ; 216 
+Move 216 217 ; 217 
+Move 217 218 ; 218 
+Move 218 219 ; 219 
+Move 219 220 ; 220 
+Move 220 221 ; 221 
+Move 221 222 ; 222 
+Move 222 223 ; 223 
+Move 223 224 ; 224 
+Move 224 225 ; 225 
+Move 225 226 ; 226 
+Move 226 227 ; 227 
+Turn Left 227 ; 228 
+Mark 2 228 ; 229 
+Turn Left 58 ; 230 
+Mark 2 230 ; 231 
+Move 227 232 ; 232 
+Move 232 233 ; 233 
+Move 233 234 ; 234 
+Turn Left 234 ; 235 
+Mark 2 235 ; 236 
+Sense Here 236 236 Friend ; 237 
+Turn Left 148 ; 238 
+Mark 2 238 ; 239 
+Move 130 240 ; 240 
+Turn Left 240 ; 241 
+Mark 2 241 ; 242 
+Sense Here 242 242 Friend ; 243 
+Move 133 244 ; 244 
+Move 244 245 ; 245 
+Turn Left 245 ; 246 
+Turn Left 246 ; 247 
+Move 247 248 ; 248 
+Move 248 249 ; 249 
+Move 249 250 ; 250 
+Move 250 251 ; 251 
+Move 251 252 ; 252 
+Move 252 253 ; 253 
+Move 253 254 ; 254 
+Move 254 255 ; 255 
+Move 255 256 ; 256 
+Move 256 257 ; 257 
+Move 257 258 ; 258 
+Move 258 259 ; 259 
+Move 259 260 ; 260 
+Move 260 261 ; 261 
+Move 261 262 ; 262 
+Turn Left 262 ; 263 
+Mark 2 263 ; 264 
+Sense Here 264 264 Friend ; 265 
+Sense RightAhead 265 154 Marker 2 ; 266 
+Sense Here 266 266 Friend ; 267 
+Sense LeftAhead 61 267 Marker 2 ; 268 
+Sense RightAhead 243 268 Marker 2 ; 269 
+Sense Here 269 269 Friend ; 270 
+Sense LeftAhead 239 270 Marker 2 ; 271 
+Sense RightAhead 237 271 Marker 2 ; 272 
+Sense Here 272 272 Friend ; 273 
+Sense LeftAhead 231 273 Marker 2 ; 274 
+Sense RightAhead 44 274 Marker 2 ; 275 
+Sense Here 275 275 Friend ; 276 
+Sense LeftAhead 229 276 Marker 1 ; 277 
+Sense RightAhead 213 277 Marker 1 ; 278 
+Sense Here 278 278 Friend ; 279 
+Sense Ahead 192 279 Marker 1 ; 280 
+Sense Here 280 280 Friend ; 281 
+Mark 0 281 ; 282 
+Turn Left 18 ; 283 
+Mark 2 283 ; 284 
+Move 245 285 ; 285 
+Move 285 286 ; 286 
+Turn Left 286 ; 287 
+Turn Left 287 ; 288 
+Move 288 289 ; 289 
+Move 289 290 ; 290 
+Move 290 291 ; 291 
+Move 291 292 ; 292 
+Move 292 293 ; 293 
+Move 293 294 ; 294 
+Move 294 295 ; 295 
+Move 295 296 ; 296 
+Move 296 297 ; 297 
+Move 297 298 ; 298 
+Move 298 299 ; 299 
+Move 299 300 ; 300 
+Move 300 301 ; 301 
+Move 301 302 ; 302 
+Move 302 303 ; 303 
+Turn Left 303 ; 304 
+Mark 2 304 ; 305 
+Sense Here 305 305 Friend ; 306 
+Turn Left 260 ; 307 
+Mark 2 307 ; 308 
+Turn Left 20 ; 309 
+Mark 2 309 ; 310 
+Sense Here 310 310 Friend ; 311 
+Turn Left 19 ; 312 
+Mark 2 312 ; 313 
+Turn Left 39 ; 314 
+Mark 2 314 ; 315 
+Sense LeftAhead 315 1 Marker 2 ; 316 
+Sense RightAhead 265 316 Marker 2 ; 317 
+Sense Here 317 317 Friend ; 318 
+Sense LeftAhead 313 318 Marker 2 ; 319 
+Sense RightAhead 311 319 Marker 2 ; 320 
+Sense Here 320 320 Friend ; 321 
+Sense LeftAhead 308 321 Marker 2 ; 322 
+Sense RightAhead 306 322 Marker 2 ; 323 
+Sense Here 323 323 Friend ; 324 
+Sense LeftAhead 284 324 Marker 2 ; 325 
+Sense RightAhead 129 325 Marker 2 ; 326 
+Sense Here 326 326 Friend ; 327 
+Sense LeftAhead 82 327 Marker 1 ; 328 
+Sense RightAhead 153 328 Marker 1 ; 329 
+Sense Here 329 329 Friend ; 330 
+Sense Ahead 192 330 Marker 1 ; 331 
+Sense Here 331 331 Friend ; 332 
+Mark 0 332 ; 333 
+Turn Left 207 ; 334 
+Mark 2 334 ; 335 
+Move 150 336 ; 336 
+Turn Left 336 ; 337 
+Mark 2 337 ; 338 
+Sense Here 338 338 Friend ; 339 
+Turn Left 187 ; 340 
+Mark 2 340 ; 341 
+Turn Left 285 ; 342 
+Turn Left 342 ; 343 
+Move 343 344 ; 344 
+Move 344 345 ; 345 
+Move 345 346 ; 346 
+Move 346 347 ; 347 
+Move 347 348 ; 348 
+Move 348 349 ; 349 
+Move 349 350 ; 350 
+Move 350 351 ; 351 
+Move 351 352 ; 352 
+Move 352 353 ; 353 
+Move 353 354 ; 354 
+Move 354 355 ; 355 
+Move 355 356 ; 356 
+Turn Left 356 ; 357 
+Mark 2 357 ; 358 
+Turn Left 90 ; 359 
+Turn Left 359 ; 360 
+Move 360 361 ; 361 
+Move 361 362 ; 362 
+Move 362 363 ; 363 
+Move 363 364 ; 364 
+Move 364 365 ; 365 
+Move 365 366 ; 366 
+Move 366 367 ; 367 
+Move 367 368 ; 368 
+Move 368 369 ; 369 
+Move 369 370 ; 370 
+Move 370 371 ; 371 
+Move 371 372 ; 372 
+Move 372 373 ; 373 
+Move 373 374 ; 374 
+Move 374 375 ; 375 
+Turn Left 375 ; 376 
+Mark 2 376 ; 377 
+Sense Here 377 377 Friend ; 378 
+Turn Left 373 ; 379 
+Mark 2 379 ; 380 
+Sense LeftAhead 380 318 Marker 2 ; 381 
+Sense RightAhead 378 381 Marker 2 ; 382 
+Sense Here 382 382 Friend ; 383 
+Sense LeftAhead 358 383 Marker 2 ; 384 
+Sense RightAhead 306 384 Marker 2 ; 385 
+Sense Here 385 385 Friend ; 386 
+Sense LeftAhead 341 386 Marker 2 ; 387 
+Sense RightAhead 339 387 Marker 2 ; 388 
+Sense Here 388 388 Friend ; 389 
+Sense LeftAhead 335 389 Marker 1 ; 390 
+Sense RightAhead 153 390 Marker 1 ; 391 
+Sense Here 391 391 Friend ; 392 
+Sense Ahead 192 392 Marker 1 ; 393 
+Sense Here 393 393 Friend ; 394 
+Mark 0 394 ; 395 
+Turn Right 88 ; 396 
+Move 396 397 ; 397 
+Move 397 398 ; 398 
+Move 398 399 ; 399 
+Move 399 400 ; 400 
+Move 400 401 ; 401 
+Move 401 402 ; 402 
+Move 402 403 ; 403 
+Move 403 404 ; 404 
+Move 404 405 ; 405 
+Move 405 406 ; 406 
+Move 406 407 ; 407 
+Move 407 408 ; 408 
+Move 408 409 ; 409 
+Turn Left 409 ; 410 
+Mark 1 410 ; 411 
+Turn Left 87 ; 412 
+Turn Left 412 ; 413 
+Move 413 414 ; 414 
+Move 414 415 ; 415 
+Move 415 416 ; 416 
+Move 416 417 ; 417 
+Move 417 418 ; 418 
+Move 418 419 ; 419 
+Move 419 420 ; 420 
+Move 420 421 ; 421 
+Move 421 422 ; 422 
+Move 422 423 ; 423 
+Move 423 424 ; 424 
+Move 424 425 ; 425 
+Move 425 426 ; 426 
+Turn Left 426 ; 427 
+Mark 2 427 ; 428 
+Move 286 429 ; 429 
+Move 429 430 ; 430 
+Turn Left 430 ; 431 
+Turn Left 431 ; 432 
+Move 432 433 ; 433 
+Move 433 434 ; 434 
+Move 434 435 ; 435 
+Move 435 436 ; 436 
+Move 436 437 ; 437 
+Move 437 438 ; 438 
+Move 438 439 ; 439 
+Move 439 440 ; 440 
+Move 440 441 ; 441 
+Move 441 442 ; 442 
+Move 442 443 ; 443 
+Move 443 444 ; 444 
+Move 444 445 ; 445 
+Move 445 446 ; 446 
+Move 446 447 ; 447 
+Turn Left 447 ; 448 
+Mark 2 448 ; 449 
+Sense Here 449 449 Friend ; 450 
+Turn Left 429 ; 451 
+Turn Left 451 ; 452 
+Move 452 453 ; 453 
+Move 453 454 ; 454 
+Move 454 455 ; 455 
+Move 455 456 ; 456 
+Move 456 457 ; 457 
+Move 457 458 ; 458 
+Move 458 459 ; 459 
+Move 459 460 ; 460 
+Move 460 461 ; 461 
+Move 461 462 ; 462 
+Move 462 463 ; 463 
+Move 463 464 ; 464 
+Move 464 465 ; 465 
+Turn Left 465 ; 466 
+Mark 2 466 ; 467 
+Turn Left 244 ; 468 
+Turn Left 468 ; 469 
+Move 469 470 ; 470 
+Move 470 471 ; 471 
+Move 471 472 ; 472 
+Move 472 473 ; 473 
+Move 473 474 ; 474 
+Move 474 475 ; 475 
+Move 475 476 ; 476 
+Move 476 477 ; 477 
+Move 477 478 ; 478 
+Move 478 479 ; 479 
+Move 479 480 ; 480 
+Move 480 481 ; 481 
+Move 481 482 ; 482 
+Turn Left 482 ; 483 
+Mark 2 483 ; 484 
+Sense RightAhead 306 316 Marker 2 ; 485 
+Sense Here 485 485 Friend ; 486 
+Sense LeftAhead 484 486 Marker 2 ; 487 
+Sense RightAhead 265 487 Marker 2 ; 488 
+Sense Here 488 488 Friend ; 489 
+Sense LeftAhead 467 489 Marker 2 ; 490 
+Sense RightAhead 450 490 Marker 2 ; 491 
+Sense Here 491 491 Friend ; 492 
+Sense LeftAhead 341 492 Marker 2 ; 493 
+Sense RightAhead 311 493 Marker 2 ; 494 
+Sense Here 494 494 Friend ; 495 
+Sense LeftAhead 428 495 Marker 1 ; 496 
+Sense RightAhead 153 496 Marker 1 ; 497 
+Sense Here 497 497 Friend ; 498 
+Sense Ahead 411 498 Marker 1 ; 499 
+Sense Here 499 499 Friend ; 500 
+Mark 0 500 ; 501 
+Mark 1 230 ; 502 
+Turn Left 123 ; 503 
+Mark 2 503 ; 504 
+Turn Left 301 ; 505 
+Mark 2 505 ; 506 
+Turn Left 208 ; 507 
+Mark 2 507 ; 508 
+Sense LeftAhead 508 1 Marker 2 ; 509 
+Sense RightAhead 450 509 Marker 2 ; 510 
+Sense Here 510 510 Friend ; 511 
+Sense LeftAhead 506 511 Marker 2 ; 512 
+Sense RightAhead 306 512 Marker 2 ; 513 
+Sense Here 513 513 Friend ; 514 
+Sense LeftAhead 467 514 Marker 2 ; 515 
+Sense RightAhead 450 515 Marker 2 ; 516 
+Sense Here 516 516 Friend ; 517 
+Sense LeftAhead 108 517 Marker 2 ; 518 
+Sense RightAhead 378 518 Marker 2 ; 519 
+Sense Here 519 519 Friend ; 520 
+Sense LeftAhead 504 520 Marker 1 ; 521 
+Sense RightAhead 265 521 Marker 1 ; 522 
+Sense Here 522 522 Friend ; 523 
+Sense Ahead 502 523 Marker 1 ; 524 
+Sense Here 524 524 Friend ; 525 
+Mark 0 525 ; 526 
+Mark 1 283 ; 527 
+Turn Left 445 ; 528 
+Mark 2 528 ; 529 
+Mark 2 1 ; 530 
+Sense Here 530 530 Friend ; 531 
+Sense LeftAhead 530 1 Marker 2 ; 532 
+Sense RightAhead 531 532 Marker 2 ; 533 
+Sense Here 533 533 Friend ; 534 
+Sense LeftAhead 529 534 Marker 2 ; 535 
+Sense RightAhead 450 535 Marker 2 ; 536 
+Sense Here 536 536 Friend ; 537 
+Sense LeftAhead 467 537 Marker 2 ; 538 
+Sense RightAhead 450 538 Marker 2 ; 539 
+Sense Here 539 539 Friend ; 540 
+Sense LeftAhead 239 540 Marker 2 ; 541 
+Sense RightAhead 265 541 Marker 2 ; 542 
+Sense Here 542 542 Friend ; 543 
+Sense LeftAhead 380 543 Marker 1 ; 544 
+Sense RightAhead 265 544 Marker 1 ; 545 
+Sense Here 545 545 Friend ; 546 
+Sense Ahead 527 546 Marker 1 ; 547 
+Sense Here 547 547 Friend ; 548 
+Mark 0 548 ; 549 
+Sense LeftAhead 530 534 Marker 2 ; 550 
+Sense RightAhead 531 550 Marker 2 ; 551 
+Sense Here 551 551 Friend ; 552 
+Sense LeftAhead 467 552 Marker 2 ; 553 
+Sense RightAhead 450 553 Marker 2 ; 554 
+Sense Here 554 554 Friend ; 555 
+Sense LeftAhead 308 555 Marker 2 ; 556 
+Sense RightAhead 306 556 Marker 2 ; 557 
+Sense Here 557 557 Friend ; 558 
+Sense LeftAhead 108 558 Marker 1 ; 559 
+Sense RightAhead 265 559 Marker 1 ; 560 
+Sense Here 560 560 Friend ; 561 
+Sense Ahead 527 561 Marker 1 ; 562 
+Sense Here 562 562 Friend ; 563 
+Mark 0 563 ; 564 
+Mark 1 340 ; 565 
+Sense LeftAhead 530 552 Marker 2 ; 566 
+Sense RightAhead 531 566 Marker 2 ; 567 
+Sense Here 567 567 Friend ; 568 
+Sense LeftAhead 506 568 Marker 2 ; 569 
+Sense RightAhead 450 569 Marker 2 ; 570 
+Sense Here 570 570 Friend ; 571 
+Sense LeftAhead 484 571 Marker 1 ; 572 
+Sense RightAhead 306 572 Marker 1 ; 573 
+Sense Here 573 573 Friend ; 574 
+Sense Ahead 565 574 Marker 1 ; 575 
+Sense Here 575 575 Friend ; 576 
+Mark 0 576 ; 577 
+Mark 1 238 ; 578 
+Sense LeftAhead 530 568 Marker 2 ; 579 
+Sense RightAhead 531 579 Marker 2 ; 580 
+Sense Here 580 580 Friend ; 581 
+Sense LeftAhead 358 581 Marker 1 ; 582 
+Sense RightAhead 450 582 Marker 1 ; 583 
+Sense Here 583 583 Friend ; 584 
+Sense Ahead 578 584 Marker 1 ; 585 
+Sense Here 585 585 Friend ; 586 
+Mark 0 586 ; 587 
+Mark 1 307 ; 588 
+Sense LeftAhead 530 581 Marker 1 ; 589 
+Sense RightAhead 531 589 Marker 1 ; 590 
+Sense Here 590 590 Friend ; 591 
+Sense Ahead 588 591 Marker 1 ; 592 
+Sense Here 592 592 Friend ; 593 
+Mark 0 593 ; 594 
+Sense Ahead 594 1 Marker 0 ; 595 
+Sense Here 595 595 Friend ; 596 
+Sense Ahead 587 596 Marker 0 ; 597 
+Sense Here 597 597 Friend ; 598 
+Sense Ahead 577 598 Marker 0 ; 599 
+Sense Here 599 599 Friend ; 600 
+Sense Ahead 564 600 Marker 0 ; 601 
+Sense Here 601 601 Friend ; 602 
+Sense Ahead 549 602 Marker 0 ; 603 
+Sense Here 603 603 Friend ; 604 
+Sense Ahead 526 604 Marker 0 ; 605 
+Sense Here 605 605 Friend ; 606 
+Sense Ahead 501 606 Marker 0 ; 607 
+Sense Here 607 607 Friend ; 608 
+Sense Ahead 395 608 Marker 0 ; 609 
+Sense Here 609 609 Friend ; 610 
+Sense Ahead 333 610 Marker 0 ; 611 
+Sense Here 611 611 Friend ; 612 
+Sense Ahead 282 612 Marker 0 ; 613 
+Sense Here 613 613 Friend ; 614 
+Sense Ahead 614 172 Home ; 615 
